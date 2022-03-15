@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application01</string>
+    <string name="button">Button</string>
+    <string name="bigger_button_name">放大</string>
+    <string name="confirm_button_name">确认</string>
+    <string name="show_text">abc</string>
+
+</resources>
