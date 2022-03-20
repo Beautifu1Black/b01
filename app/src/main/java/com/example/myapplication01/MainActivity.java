@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        System.out.println("onStart");
+        System.out.println("onStart ");
     }
 
     @Override
